@@ -1,0 +1,8 @@
+fatal test
+Info test
+error test
+Warning test
+execution time for fatal: 0.000396935 ms
+execution time for error: 0.000474448 ms
+execution time for warning: 0.000514939 ms
+execution time for info: 0.000494387 ms

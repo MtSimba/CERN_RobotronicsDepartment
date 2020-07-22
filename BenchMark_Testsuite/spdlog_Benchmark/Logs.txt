@@ -1,0 +1,2124 @@
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[202[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger32020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.574] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.575] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.575] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.575] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.575] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.575] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.575] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.575] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.575] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.575] [mylogger4] [critical] critical test
+[2020-07-21 17:46:00.575] [mylogger4] [info] execution time for critical: 0.000410 ms
+ 
+] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.574] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.575] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.575] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.575] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.575] [mylogger3] [error] error test
+
+[2020-07-21 17:46:00.575] [mylogger3] [info] execution time for error: 0.000365 ms
+ 
+0-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:00.574] [mylogger2] [info] execution time for warning: 0.000331 ms
+ 
+-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:00.574] [mylogger1] [info] execution time for info: 0.000322 ms
+ 
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[202[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger32020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.078] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [critical] critical test
+[2020-07-21 17:46:22.079] [mylogger4] [info] execution time for critical: 0.000442 ms
+ 
+-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.078] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:22.079] [mylogger1] [info] execution time for info: 0.000272 ms
+ 
+] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.078] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [error] error test
+
+[2020-07-21 17:46:22.079] [mylogger3] [info] execution time for error: 0.000397 ms
+ 
+0-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:22.078] [mylogger2] [info] execution time for warning: 0.000337 ms
+ 
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[202[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.014] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.014] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger32020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [critical] critical test
+[2020-07-21 17:46:41.015] [mylogger4] [info] execution time for critical: 0.000402 ms
+ 
+] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [error] error test
+
+[2020-07-21 17:46:41.015] [mylogger3] [info] execution time for error: 0.000367 ms
+ 
+0-07-21 17:46:41.014] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [warning] warning test
+
+[2020-07-21 17:46:41.015] [mylogger2] [info] execution time for warning: 0.000329 ms
+ 
+-21 17:46:41.014] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] Info test
+
+[2020-07-21 17:46:41.015] [mylogger1] [info] execution time for info: 0.000356 ms
+ 

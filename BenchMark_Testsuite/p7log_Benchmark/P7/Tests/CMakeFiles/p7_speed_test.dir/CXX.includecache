@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/robotronics/Desktop/Repository/research/P7/Tests/Speed/Speed.cpp
+stdlib.h
+-
+stdio.h
+-
+stddef.h
+-
+string.h
+-
+stdarg.h
+-
+limits.h
+-
+PTime.h
+/home/robotronics/Desktop/Repository/research/P7/Tests/Speed/PTime.h
+PThreadShell.h
+/home/robotronics/Desktop/Repository/research/P7/Tests/Speed/PThreadShell.h
+Ticks.h
+/home/robotronics/Desktop/Repository/research/P7/Tests/Speed/Ticks.h
+UTF.h
+/home/robotronics/Desktop/Repository/research/P7/Tests/Speed/UTF.h
+AList.h
+/home/robotronics/Desktop/Repository/research/P7/Tests/Speed/AList.h
+PString.h
+/home/robotronics/Desktop/Repository/research/P7/Tests/Speed/PString.h
+PProcess.h
+/home/robotronics/Desktop/Repository/research/P7/Tests/Speed/PProcess.h
+PConsole.h
+/home/robotronics/Desktop/Repository/research/P7/Tests/Speed/PConsole.h
+P7_Client.h
+/home/robotronics/Desktop/Repository/research/P7/Tests/Speed/P7_Client.h
+P7_Trace.h
+/home/robotronics/Desktop/Repository/research/P7/Tests/Speed/P7_Trace.h
+

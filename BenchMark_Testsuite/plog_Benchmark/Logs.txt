@@ -1,0 +1,8 @@
+﻿2020-07-21 12:11:39.843 INFO  [4358] [infothread@15] INFO test
+2020-07-21 12:11:39.843 INFO  [4358] [infothread@19] execution time for INFO: 0.000255993ms
+2020-07-21 12:11:39.843 WARN  [4359] [warningthread@25] WARNING test
+2020-07-21 12:11:39.843 ERROR [4360] [errorthread@35] ERROR test
+2020-07-21 12:11:39.844 INFO  [4360] [errorthread@39] execution time for ERROR: 0.000395781ms
+2020-07-21 12:11:39.843 FATAL [4361] [fatalthread@45] FATAL test
+2020-07-21 12:11:39.844 INFO  [4361] [fatalthread@49] execution time for FATAL: 0.000449562ms
+2020-07-21 12:11:39.843 INFO  [4359] [warningthread@29] execution time for WARNING: 0.000320953ms

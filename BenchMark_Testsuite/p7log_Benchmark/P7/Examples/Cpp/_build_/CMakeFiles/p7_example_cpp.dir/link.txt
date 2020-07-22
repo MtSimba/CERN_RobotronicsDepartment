@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/p7_example_cpp.dir/Main.cpp.o  -o p7_example_cpp -lp7 

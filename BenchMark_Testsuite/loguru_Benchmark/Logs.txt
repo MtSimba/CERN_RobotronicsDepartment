@@ -1,0 +1,21 @@
+
+
+
+
+
+arguments: ./demo
+Current dir: /home/robotronics/Desktop/Repository/research/BenchMark_Testsuite/loguru_Benchmark
+File verbosity level: 0
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2020-07-21 13:44:54.591 (   0.000s) [main thread     ]             loguru.cpp:791   INFO| Logging to 'Logs.txt', mode: 'a', verbosity: 0
+2020-07-21 13:44:54.591 (   0.000s) [        7DADC700]               main.cpp:15    INFO| Info test
+2020-07-21 13:44:54.591 (   0.000s) [        7DADC700]               main.cpp:19    INFO| execution time for INFO: 0.000181 ms
+2020-07-21 13:44:54.591 (   0.000s) [        7D2DB700]               main.cpp:25    WARN| Warning test
+2020-07-21 13:44:54.591 (   0.000s) [        7CADA700]               main.cpp:35     ERR| ERROR test
+2020-07-21 13:44:54.592 (   0.001s) [        7CADA700]               main.cpp:39    INFO| execution time for ERROR: 0.000337 ms
+2020-07-21 13:44:54.592 (   0.001s) [        7D2DB700]               main.cpp:29    INFO| execution time for WARNING: 0.000314 ms
+Stack trace:
+2       0x7f707df9ca3f clone + 63
+1       0x7f707ea186db /lib/x86_64-linux-gnu/libpthread.so.0(+0x76db) [0x7f707ea186db]
+0       0x5576efaf2589 ./demo(+0xc589) [0x5576efaf2589]
+2020-07-21 13:44:54.591 (   0.001s) [        77FFF700]               main.cpp:45    FATL| Info test

@@ -1,0 +1,7 @@
+/home/robotronics/Desktop/Repository/research/P7/Tests/CMakeFiles/install/strip.dir
+/home/robotronics/Desktop/Repository/research/P7/Tests/CMakeFiles/edit_cache.dir
+/home/robotronics/Desktop/Repository/research/P7/Tests/CMakeFiles/p7_speed_test.dir
+/home/robotronics/Desktop/Repository/research/P7/Tests/CMakeFiles/list_install_components.dir
+/home/robotronics/Desktop/Repository/research/P7/Tests/CMakeFiles/install/local.dir
+/home/robotronics/Desktop/Repository/research/P7/Tests/CMakeFiles/rebuild_cache.dir
+/home/robotronics/Desktop/Repository/research/P7/Tests/CMakeFiles/install.dir

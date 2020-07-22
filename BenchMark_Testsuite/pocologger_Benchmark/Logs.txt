@@ -1,0 +1,8 @@
+Error test
+Info test
+Warning test
+Fatal test
+execution time for WARNING: {0.000276} ms 
+execution time for ERROR: {0.000151} ms 
+execution time for FATAL: {0.000293} ms 
+execution time for INFO: {0.000248} ms 

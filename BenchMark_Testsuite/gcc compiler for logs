@@ -1,0 +1,45 @@
+spdlog -> single and looped
+loguru -> single and looped
+boost -> single and looped
+easylogging++ -> single and looped
+plog -> single and looped
+poco -> single and looped 
+P7 -> N/A
+log4cxx -> N/A
+
+
+
+
+spdlog : 
+
+g++ -o demo main.cpp -I"spdlog/include" -std=c++0x -lpthread -ldl
+
+loguru :
+
+g++ -o demo main.cpp -I"loguru/" -std=c++11 -lpthread -ldl
+
+plog :
+
+g++ -o demo main.cpp -I"plog/include" -std=c++11 -lpthread -ldl
+
+easylogging++ :
+
+g++ main.cpp easylogging++.cc -o demo -std=c++11 -lpthread -ldl
+
+boost :
+
+g++ -std=c++11 -Wall -pedantic -g -O0 -DBOOST_LOG_DYN_LINK  -c main.cpp
+
+g++ main.o  -lpthread -lboost_log -lboost_log_setup  -lboost_system -lboost_thread -o demo
+
+Poco :
+
+g++ main.cpp -Wall -std=c++11 -o demo -lPocoNet -lPocoFoundation -lpthread -ldl
+
+P7 :
+
+not implemented 
+
+log4cxx : 
+
+not implemented
