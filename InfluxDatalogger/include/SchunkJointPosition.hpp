@@ -1,3 +1,7 @@
+#ifndef SCHUNK_JOINT_H
+#define SCHUNK_JOINT_H
+
+
 #include "IJointPosition.hpp"
 
 class SchunkJointPosition : public IJointPosition
@@ -6,3 +10,5 @@ class SchunkJointPosition : public IJointPosition
     void WriterJointPosition(int j1, int j2, int j3, int j4, int j5, int j6);
     void ReaderJointPosition();
 };
+
+#endif /* SCHUNK_JOINT_H */

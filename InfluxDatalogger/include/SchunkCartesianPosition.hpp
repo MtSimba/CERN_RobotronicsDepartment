@@ -1,3 +1,7 @@
+#ifndef SCHUNK_CARTESIAN_H
+#define SCHUNK_CARTESIAN_H
+
+
 #include "ICartesianPosition.hpp"
 
 class SchunkCartesianPosition : public ICartesianPosition
@@ -8,3 +12,5 @@ class SchunkCartesianPosition : public ICartesianPosition
                                          int j13, int j14, int j15, int j16);
     void ReaderCartesianPosition();
 };
+
+#endif /* SCHUNK_CARTESIAN_H */
