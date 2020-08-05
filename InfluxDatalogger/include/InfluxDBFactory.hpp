@@ -3,6 +3,8 @@
 
 #include "IJointPosition.hpp"
 #include "ICartesianPosition.hpp"
+#include "KinovaInfluxDBFactory.hpp"
+#include "SchunkInfluxDBFactory.hpp"
 
 class InfluxDBFactory
 {

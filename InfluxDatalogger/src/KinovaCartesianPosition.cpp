@@ -1,4 +1,5 @@
-#include "../include/KinovaCartesianPosition.hpp"
+/*
+#include "include/KinovaCartesianPosition.hpp"
 #include <curlpp/cURLpp.hpp>
 #include <curlpp/Easy.hpp>
 #include <curlpp/Options.hpp>
@@ -77,3 +78,4 @@ void KinovaCartesianPosition::ReaderCartesianPosition()
       std::cout << e.what() << std::endl;
     }
 }
+*/

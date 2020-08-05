@@ -1,4 +1,5 @@
-#include "../include/KinovaJointPosition.hpp"
+/*
+#include "include/KinovaJointPosition.hpp"
 #include <curlpp/cURLpp.hpp>
 #include <curlpp/Easy.hpp>
 #include <curlpp/Options.hpp>
@@ -69,3 +70,4 @@ void KinovaJointPosition::ReaderJointPosition()
       std::cout << e.what() << std::endl;
     }
 }
+*/

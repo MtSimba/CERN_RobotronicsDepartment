@@ -6,11 +6,11 @@
 class SchunkInfluxDBFactory : public InfluxDBFactory
 {
   public:
-    ICartesianPosition *CreateCartesianPosition() const override{
-      return new SchunkCartesianPosition;
+    ICartesianPosition *CreateCartesianPosition() const override {
+      return new SchunkCartesianPosition();
     }
     IJointPosition *CreateJointPosition() const override {
-      return new SchunkJointPosition;
+      return new SchunkJointPosition();
     }
 };
 
