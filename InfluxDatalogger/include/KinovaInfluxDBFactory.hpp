@@ -4,8 +4,6 @@
 #include "InfluxDBFactory.hpp"
 #include "KinovaJointPosition.hpp"
 #include "KinovaCartesianPosition.hpp"
-#include "ICartesianPosition.hpp"
-#include "IJointPosition.hpp"
 
 class KinovaInfluxDBFactory : public InfluxDBFactory
 {
