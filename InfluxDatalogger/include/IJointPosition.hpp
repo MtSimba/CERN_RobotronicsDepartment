@@ -28,8 +28,8 @@
 class IJointPosition
 {
   public:
-    virtual void WriterJointPosition(int j1, int j2, int j3, int j4, int j5, int j6) = 0;
-    virtual void ReaderJointPosition() = 0;
+    virtual void WriterJointPosition(int j1, int j2, int j3, int j4, int j5, int j6) const = 0;
+    virtual void ReaderJointPosition() const = 0;
 };
 
 #endif /* JOINT_H */

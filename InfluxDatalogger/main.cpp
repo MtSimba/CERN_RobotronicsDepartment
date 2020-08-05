@@ -1,15 +1,12 @@
-//#include "src/Client.cpp"
+#include "src/Client.cpp"
 #include "include/InfluxDBFactory.hpp"
-
+#include "include/KinovaInfluxDBFactory.hpp"
 
 int main()
 {
-  InfluxDBFactory *Factory;
-  IJointPosition *joint;
-
-  Factory = new KinovaInfluxDBFactory;
-  joint = Factory->CreateJointPosition();
-  joint->WriterJointPosition(1,2,3,4,5,6);
+  KinovaInfluxDBFactory *f1 = new KinovaInfluxDBFactory();
+  ClientCode(*f1);
+  delete f1;
 
   return 0;
 }

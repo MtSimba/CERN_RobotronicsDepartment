@@ -7,8 +7,8 @@
 class InfluxDBFactory
 {
   public:
-    virtual ICartesianPosition *CreateCartesianPosition() = 0;
-    virtual IJointPosition     *CreateJointPosition() = 0;
+    virtual ICartesianPosition *CreateCartesianPosition() const = 0;
+    virtual IJointPosition     *CreateJointPosition() const = 0;
 };
 
 #endif /* FACTORY_H */

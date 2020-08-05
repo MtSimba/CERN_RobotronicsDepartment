@@ -2,15 +2,19 @@
 #define KINOVA_FACTORY_H
 
 #include "InfluxDBFactory.hpp"
+#include "KinovaJointPosition.hpp"
+#include "KinovaCartesianPosition.hpp"
+#include "ICartesianPosition.hpp"
+#include "IJointPosition.hpp"
 
 class KinovaInfluxDBFactory : public InfluxDBFactory
 {
   public:
-    ICartesianPosition *CreateCartesianPosition() {
-      return new KinovaCartesianPosition;
+    ICartesianPosition *CreateCartesianPosition() const override {
+      return new KinovaCartesianPosition();
     }
-    IJointPosition *CreateJointPosition() {
-      return new KinovaJointPosition;
+    IJointPosition *CreateJointPosition() const override {
+      return new KinovaJointPosition();
     }
 };
 
